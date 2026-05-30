@@ -8,3 +8,4 @@ ls --color=auto
 ./insert_data.sh
 --help
 pg_dump --help
+git add .
